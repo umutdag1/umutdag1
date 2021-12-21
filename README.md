@@ -79,7 +79,7 @@
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/umut-d-6725a51ab/)
 - 📝 &nbsp; Checkout my [resume](https://umutdagg.herokuapp.com/assets/CV_en.pdf)
 
-<br/><br/><br/>
+<br/><br/><br/><br/>
 
 ## 🔥 Streak stats
 
