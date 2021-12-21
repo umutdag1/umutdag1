@@ -70,7 +70,6 @@
 -->
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-  
 ## 🧐 About Me:
 
 - 🔭 &nbsp; I’m currently working on **Golang, VueJS, MsSQL, MySQL**
@@ -80,7 +79,7 @@
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/umut-d-6725a51ab/)
 - 📝 &nbsp; Checkout my [resume](https://umutdagg.herokuapp.com/assets/CV_en.pdf)
 
-<br/><br/>
+<br/>
 
 ## 🔥 Streak stats
 
@@ -213,12 +212,11 @@
 ## 📊 Github stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img src="https://github-readme-stats.vercel.app/api/?username=umutdag1&count_private=true&theme=tokyonight&showicons=true" alt="stats" align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umutdag1&langs_count=5&theme=tokyonight" alt="stats" align="right">
+<img src="https://github-readme-stats.vercel.app/api/?username=umutdag1&count_private=true&theme=tokyonight&showicons=true" alt="stats" align="center">
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umutdag1&langs_count=5&theme=tokyonight" alt="stats" align="center">
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="UmutDag1's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=umutdag1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
 
-<!-- ## End of The Word
-
-<h1>⚡️<i>Have a Good Coding Day!</i>⚡️</h1>-->
+<h1 align="center">⚡️<i>Have a Good Coding Day!</i>⚡️</h1>
