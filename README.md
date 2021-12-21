@@ -96,7 +96,7 @@
 
 ## 🛠️ My favorite tools
 
-### 👨‍💻 Programming languages(Learnt/Continue to Learn)
+### 👨‍💻 Programming languages(Learnt/Continuing to Learn)
 
 <p>
     <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
@@ -128,7 +128,7 @@
     <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a> -->
 </p>
 
-### 🧰 Frameworks(Learnt/Continue to Learn) and libraries
+### 🧰 Frameworks(Learnt/Continuing to Learn) and libraries
 <p>
   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
   <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></a>
@@ -162,7 +162,7 @@
     <a href="#"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a>
 </p> -->
 
-### 🗄️ Databases(Learnt/Continue to Learn) and cloud hosting
+### 🗄️ Databases(Learnt/Continuing to Learn) and cloud hosting
 
 <p>
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"></a>
@@ -213,8 +213,8 @@
 ## 📊 Github stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img style="width : 55%;" src="https://github-readme-stats.vercel.app/api/?username=umutdag1&count_private=true&theme=tokyonight&showicons=true" alt="stats" align="left">
-<img style="width : 40%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umutdag1&langs_count=5&theme=tokyonight" alt="stats" align="right">
+<img src="https://github-readme-stats.vercel.app/api/?username=umutdag1&count_private=true&theme=tokyonight&showicons=true" alt="stats" align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umutdag1&langs_count=5&theme=tokyonight" alt="stats" align="right">
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="UmutDag1's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=umutdag1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
