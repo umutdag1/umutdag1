@@ -69,7 +69,8 @@
 </p>
 -->
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="300px"/>
+
 ## 🧐 About Me:
 
 - 🔭 &nbsp; I’m currently working on **Golang, VueJS, MsSQL, MySQL**
@@ -79,7 +80,6 @@
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/umut-d-6725a51ab/)
 - 📝 &nbsp; Checkout my [resume](https://umutdagg.herokuapp.com/assets/CV_en.pdf)
 
-<br/><br/><br/><br/>
 
 ## 🔥 Streak stats
 
