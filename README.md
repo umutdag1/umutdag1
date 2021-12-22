@@ -19,7 +19,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/umut-d-6725a51ab/"><img width="32px" alt="linkedin.com" title="UmutDagg Linkedin Account" src="https://img.icons8.com/external-justicon-flat-justicon/100/000000/external-linkedin-social-media-justicon-flat-justicon.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.github.com/umutdag1/"><img width="32px" alt="github.com" title="UmutDagg Github Account" src="https://img.icons8.com/stickers/100/000000/github.png"></a>
+  <a href="https://github.com/umutdag1?tab=repositories"><img width="32px" alt="github.com" title="UmutDagg Github Account" src="https://img.icons8.com/stickers/100/000000/github.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <!--<a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
