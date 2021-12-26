@@ -84,7 +84,7 @@
 ## 🔥 Streak stats
 
 <p align="center">
-  <a href="https://github.com/umutdag1">
+  <a href="https://github.com/umutdag1?tab=repositories">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="UmutDag1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=umutdag1&theme=monokai-metallian&hide_border=true"/>
   </a>
   <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
