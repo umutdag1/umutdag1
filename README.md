@@ -17,7 +17,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;-->
   <a href="https://umutdagg.herokuapp.com/"><img width="32px" alt="herokuapp.com" title="UmutDagg Personal Website" src="https://img.icons8.com/color/100/000000/domain--v1.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/umut-dag-6725a51ab/"><img width="32px" alt="linkedin.com" title="UmutDagg Linkedin Account" src="https://img.icons8.com/external-justicon-flat-justicon/100/000000/external-linkedin-social-media-justicon-flat-justicon.png"></a>
+  <a href="https://www.linkedin.com/in/umutdag1998/"><img width="32px" alt="linkedin.com" title="UmutDagg Linkedin Account" src="https://img.icons8.com/external-justicon-flat-justicon/100/000000/external-linkedin-social-media-justicon-flat-justicon.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://github.com/umutdag1?tab=repositories"><img width="32px" alt="github.com" title="UmutDagg Github Account" src="https://img.icons8.com/stickers/100/000000/github.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -77,7 +77,7 @@
 - 🌱 &nbsp; I’m currently learning Backend/FrontEnd Technologies such as **ReactJS, React Native, MongoDB**
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/umutdag1?tab=repositories)
 - 💬 &nbsp; For more information about me visit my [Website](https://umutdagg.herokuapp.com/);
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/umut-dag-6725a51ab/)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/umutdag1998/)
 - 📝 &nbsp; Checkout my [resume](https://umutdagg.herokuapp.com/assets/CV_en.pdf)
 
 
