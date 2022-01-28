@@ -73,8 +73,8 @@
 
 ## 🧐 About Me:
 
-- 🔭 &nbsp; I’m currently working on **Golang, VueJS, MsSQL, MySQL**
-- 🌱 &nbsp; I’m currently learning Backend/FrontEnd Technologies such as **ReactJS, React Native, MongoDB**
+- 🔭 &nbsp; I’m currently working on **Javascript, Golang, VueJS, MsSQL, MySQL**
+- 🌱 &nbsp; I’m currently learning Backend/FrontEnd Technologies such as **ReactJS, React Native, Node Js, MongoDB**
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/umutdag1?tab=repositories)
 - 💬 &nbsp; For more information about me visit my [Website](https://umutdagg.herokuapp.com/);
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/umutdag1998/)
