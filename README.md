@@ -15,9 +15,9 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;-->
-  <a href="https://umutdagg.herokuapp.com/"><img width="32px" alt="herokuapp.com" title="UmutDagg Personal Website" src="https://img.icons8.com/color/100/000000/domain--v1.png"></a>
+  <!--<a href="https://umutdagg.herokuapp.com/"><img width="32px" alt="herokuapp.com" title="UmutDagg Personal Website" src="https://img.icons8.com/color/100/000000/domain--v1.png"></a>-->
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/umutdag1998/"><img width="32px" alt="linkedin.com" title="UmutDagg Linkedin Account" src="https://img.icons8.com/external-justicon-flat-justicon/100/000000/external-linkedin-social-media-justicon-flat-justicon.png"></a>
+  <a href="https://www.linkedin.com/in/udud/"><img width="32px" alt="linkedin.com" title="UmutDagg Linkedin Account" src="https://img.icons8.com/external-justicon-flat-justicon/100/000000/external-linkedin-social-media-justicon-flat-justicon.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://github.com/umutdag1?tab=repositories"><img width="32px" alt="github.com" title="UmutDagg Github Account" src="https://img.icons8.com/stickers/100/000000/github.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
