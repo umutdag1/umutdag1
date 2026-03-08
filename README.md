@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/umutdag1/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&color=f75c7e&size=23&center=true&vCenter=true&lines=Always+Learning+New+Things;Keeping+Update;Web+Developer;Full-Stack%2FBackend+Developer"></a>
+  <a href="https://github.com/umutdag1/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&color=f75c7e&size=23&center=true&vCenter=true&lines=Always+Learning;Keep+Learning;Developer"></a>
 </p>
 
 <!-- Social icons section -->
@@ -73,11 +73,11 @@
 
 ## 🧐 About Me:
 
-- 🔭 &nbsp; I’m currently working on **C#, ColdFusion, PHP, VueJS, MsSQL, MySQL**
-- 🌱 &nbsp; I’m currently learning Backend/FrontEnd Technologies such as **C#, ColdFusion, PHP**
+ - 🔭 &nbsp; **Developer**<!-- **C#, ColdFusion, PHP, VueJS, MsSQL, MySQL** -->
+<!-- - 🌱 &nbsp; I’m currently learning Backend/FrontEnd Technologies such as **C#, ColdFusion, PHP** -->
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/umutdag1?tab=repositories)
 <!--- - 💬 &nbsp; For more information about me visit my [Website](https://umutdagg.herokuapp.com/); -->
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/udud/)
+<!--- - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/udud/) -->
 <!--- 📝 &nbsp; Checkout my [resume](https://umutdagg.herokuapp.com/assets/CV_en.pdf)-->
 - 💻 &nbsp; My replit account [replit](https://replit.com/@umutdag1)
 
@@ -97,13 +97,13 @@
 
 ## 🛠️ My favorite tools
 
-### 👨‍💻 Programming languages
+<!-- ### 👨‍💻 Programming languages -->
 
 <p>
-    <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+    <!-- <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
     <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
     <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-    <img alt="GO" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
+    <img alt="GO" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"> -->
 </p>
 
 <p>
@@ -129,19 +129,19 @@
     <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a> -->
 </p>
 
-### 🧰 Frameworks and libraries
+<!-- ### 🧰 Frameworks and libraries
 <p>
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-  <!--<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img alt="ReactNative" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img alt="Electron" src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white">
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">-->
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
   <img alt="JQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   <img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
   <img alt="VueJS" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
-</p>
+</p> -->
 
 <!-- <p>
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
@@ -166,7 +166,7 @@
 ### 🗄️ Databases and cloud hosting
 
 <p>
-    <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
+    <!-- <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"> -->
     <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
     <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
     <img alt="MsSQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
@@ -211,14 +211,15 @@
     <a href="#"><img alt="Photopea" src="https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=white"></a>
 </p> -->
 
-## 📊 Github stats
+<!-- ## 📊 Github stats
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+https://github.com/anuraghazra/github-readme-stats
 <img src="https://github-readme-stats.vercel.app/api/?username=umutdag1&count_private=true&theme=tokyonight&showicons=true" alt="stats" align="center">
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umutdag1&langs_count=5&theme=tokyonight" alt="stats" align="center">
+-->
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="UmutDag1's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=umutdag1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
 
-<h1 align="center">⚡️<i>Have a Good Coding Day!</i>⚡️</h1>
+<h1 align="center">⚡️<i>COding is FuN!</i>⚡️</h1>
